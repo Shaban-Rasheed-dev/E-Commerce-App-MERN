@@ -42,7 +42,7 @@ Create a `.env` file:
 PORT=5000
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
-NODE_ENV=development
+NODE_ENV=production
 ```
 
 ```bash
