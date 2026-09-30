@@ -47,6 +47,7 @@ NODE_ENV=production
 
 ```bash
 npm run dev
+node app.js
 ```
 
 ## Author
